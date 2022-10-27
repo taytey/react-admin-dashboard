@@ -1,1 +1,1 @@
-Dashboard web application to help polish my React.js skills.
+Dashboard web application to help polish my React.js and TailwindCSS skills.
